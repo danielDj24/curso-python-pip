@@ -1,13 +1,28 @@
-contourpy==1.0.7
-cycler==0.11.0
-fonttools==4.39.4
-importlib-resources==5.12.0
-kiwisolver==1.4.4
-matplotlib==3.7.1
-numpy==1.24.3
-packaging==23.1
-Pillow==9.5.0
-pyparsing==3.0.9
-python-dateutil==2.8.2
-six==1.16.0
-zipp==3.15.0
+Collecting matplotlib
+  Using cached matplotlib-3.7.1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (9.2 MB)
+Collecting kiwisolver>=1.0.1
+  Using cached kiwisolver-1.4.4-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl (1.2 MB)
+Collecting pyparsing>=2.3.1
+  Using cached pyparsing-3.0.9-py3-none-any.whl (98 kB)
+Collecting pillow>=6.2.0
+  Using cached Pillow-9.5.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.3 MB)
+Collecting importlib-resources>=3.2.0; python_version < "3.10"
+  Using cached importlib_resources-5.12.0-py3-none-any.whl (36 kB)
+Collecting contourpy>=1.0.1
+  Using cached contourpy-1.0.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (300 kB)
+Collecting fonttools>=4.22.0
+  Using cached fonttools-4.39.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.4 MB)
+Collecting numpy>=1.20
+  Using cached numpy-1.24.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (17.3 MB)
+Collecting python-dateutil>=2.7
+  Using cached python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+Collecting packaging>=20.0
+  Using cached packaging-23.1-py3-none-any.whl (48 kB)
+Collecting cycler>=0.10
+  Using cached cycler-0.11.0-py3-none-any.whl (6.4 kB)
+Collecting zipp>=3.1.0; python_version < "3.10"
+  Using cached zipp-3.15.0-py3-none-any.whl (6.8 kB)
+Collecting six>=1.5
+  Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: kiwisolver, pyparsing, pillow, zipp, importlib-resources, numpy, contourpy, fonttools, six, python-dateutil, packaging, cycler, matplotlib
+Successfully installed contourpy-1.0.7 cycler-0.11.0 fonttools-4.39.4 importlib-resources-5.12.0 kiwisolver-1.4.4 matplotlib-3.7.1 numpy-1.24.3 packaging-23.1 pillow-9.5.0 pyparsing-3.0.9 python-dateutil-2.8.2 six-1.16.0 zipp-3.15.0
