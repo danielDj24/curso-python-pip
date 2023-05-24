@@ -26,7 +26,7 @@ def run():
 
   countries = list(map(lambda x: x['Country'], data))
   percentages = list(map(lambda x: x['World Population Percentage'], data))
-  charts.generate_pie_chart(countries, percentages)
+  #charts.generate_pie_chart(countries, percentages)
 
 
 
