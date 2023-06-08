@@ -1,7 +1,9 @@
 services:
-  app-csv:
-    build: 
+  web-server:
+    build:
       context: .
       dockerfile: Dockerfile
     volumes:
-      - .:/APP 
+      - .:/app
+    ports:
+      - '80:80'
