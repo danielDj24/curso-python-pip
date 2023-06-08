@@ -1,7 +1,7 @@
 import utils
 import read_csv
 import charts
-import pandas as pd # libreria que filtra datos, lee csv y filtrar
+import pandas as pd # libreria que filtra datos, lee csv 
 
 
 def run():
