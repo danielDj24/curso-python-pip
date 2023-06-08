@@ -2,7 +2,8 @@
 import store 
 
 from fastapi import FastAPI #importamos la lib
-from fastapi.responses import HTMLResponse
+from fastapi.responses import HTMLResponse #metodo para import el html
+
 
 
 app = FastAPI()
